@@ -4,3 +4,6 @@
   src:url("./font/NotoSansCJKjp-Regular.otf") format('opentype');
 }
 
+span{
+  color:gray;
+}
